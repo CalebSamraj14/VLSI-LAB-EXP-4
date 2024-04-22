@@ -241,7 +241,7 @@ OUTPUT WAVEFORM
 
 
 
-# updown counter
+# UP DOWN COUNTER
 
 <img width="617" alt="320571905-eaf2a2ee-935c-457b-92e3-aa92be0c017c" src="https://github.com/CalebSamraj14/VLSI-LAB-EXP-4/assets/163808923/4093e481-68ab-4d30-8cd5-a91b2933dcdc">
 
