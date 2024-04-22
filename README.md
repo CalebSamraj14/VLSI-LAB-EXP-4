@@ -184,19 +184,23 @@ OUTPUT WAVEFORM
 
 # D Flip Flop
 
-![D Flip Flop](https://github.com/RCKcharan10/VLSI-LAB-EXP-4/assets/117891438/0aeeb1ce-64b7-48e0-bcbd-efbf6bf0010d)
+![322413931-0aeeb1ce-64b7-48e0-bcbd-efbf6bf0010d](https://github.com/CalebSamraj14/VLSI-LAB-EXP-4/assets/163808923/16eaae0c-044c-4e5b-a12c-d819fcd455f4)
+
 
 # JK Flip flop
 
-![JK Flip flop](https://github.com/RCKcharan10/VLSI-LAB-EXP-4/assets/117891438/f58c6b39-81b3-400f-b2e6-5df43dd4f4ce)
+![322414053-f58c6b39-81b3-400f-b2e6-5df43dd4f4ce](https://github.com/CalebSamraj14/VLSI-LAB-EXP-4/assets/163808923/b91e64d4-589d-42c8-98f8-e0defd8d8167)
+
 
 # SR Flip Flop
 
-![SR Flip Flop](https://github.com/RCKcharan10/VLSI-LAB-EXP-4/assets/117891438/c3f2b9c5-897f-48ef-b12d-2f446de70cb8)
+![322414218-c3f2b9c5-897f-48ef-b12d-2f446de70cb8](https://github.com/CalebSamraj14/VLSI-LAB-EXP-4/assets/163808923/ac45a8ed-2c8a-4688-ad43-2cac9b51106e)
+
 
 # T Flip FLop
 
-![T Flip Flop](https://github.com/RCKcharan10/VLSI-LAB-EXP-4/assets/117891438/5bae902d-bc9e-48f1-b32c-fdb06441a797)
+![322414353-5bae902d-bc9e-48f1-b32c-fdb06441a797](https://github.com/CalebSamraj14/VLSI-LAB-EXP-4/assets/163808923/883e3448-3fcb-4cb6-b2d8-843afe8704fd)
+
 
 RESULT:
 Thus the simulation and implementation of sequential logic gates is done and verified.
